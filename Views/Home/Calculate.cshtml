@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Calculate";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<br />
+<div align="center">
+    <h2>Simple Calculatar</h2> @using (Html.BeginForm())
+    {
+        <table>
+            <tr>
+                <th> First Number </th>
+                <td> <input type="text" id="txtFirstNumber" name="firstNumber" class="form-control" value="@ViewBag.FirstNumber
+" />             </td>
+            </tr>
+            <tr>
+                <th> Second Number </th>
+                <td> <input type="text" id="txtLastNumber" name="secondNumber" class="form-control" value="@ViewBag.SecondNumber"/></td>
+            </tr>
+            <tr>
+                <th><input type="submit" name="Cal" value="Add" class="btn btn-primary" />  <input type="submit" name="Cal" value="Sub" class="btn btn-primary" /> </th>
+
+            </tr>
+            <tr>
+                <th>Result</th>
+                <td><input type="text" class="form-control" value="@ViewBag.Result" /> </td>
+            </tr>
+        </table>
+    }
+</div>
+
