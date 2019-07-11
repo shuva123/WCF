@@ -1,0 +1,38 @@
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\ApplicationInsights.config
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.dll.config
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.dll
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.pdb
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.DependencyCollector.dll
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.Web.dll
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.WindowsServer.dll
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\Microsoft.ApplicationInsights.dll
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.DependencyCollector.xml
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.Web.xml
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.WindowsServer.xml
+D:\542316\VS\SimpleCalculator\SimpleCalculator\bin\Microsoft.ApplicationInsights.xml
+D:\542316\VS\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+D:\542316\VS\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll
+D:\542316\VS\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\ApplicationInsights.config
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.dll.config
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.dll
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\SimpleCalculator.pdb
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.DependencyCollector.dll
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.Web.dll
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.WindowsServer.dll
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\Microsoft.ApplicationInsights.dll
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.DependencyCollector.xml
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.Web.xml
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\Microsoft.AI.WindowsServer.xml
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\bin\Microsoft.ApplicationInsights.xml
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.dll
+D:\379982\Study\Projects\Simple Calculator\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

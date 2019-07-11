@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{14DC7C59-654E-4478-8F4B-FBA8B127C1CD}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CalculatorServiceHostIIS(1)", "CalculatorServiceHostIIS\", "{85D29E28-2BE0-42A5-BEB0-D9490AD59109}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		ProjectReferences = "{14dc7c59-654e-4478-8f4b-fba8b127c1cd}|SimpleCalculator.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_4966"
+		Debug.AspNetCompiler.PhysicalPath = "CalculatorServiceHostIIS\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4966\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_4966"
+		Release.AspNetCompiler.PhysicalPath = "CalculatorServiceHostIIS\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_4966\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4966"
+		SlnRelativePath = "CalculatorServiceHostIIS\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14DC7C59-654E-4478-8F4B-FBA8B127C1CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DC7C59-654E-4478-8F4B-FBA8B127C1CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DC7C59-654E-4478-8F4B-FBA8B127C1CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DC7C59-654E-4478-8F4B-FBA8B127C1CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85D29E28-2BE0-42A5-BEB0-D9490AD59109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85D29E28-2BE0-42A5-BEB0-D9490AD59109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85D29E28-2BE0-42A5-BEB0-D9490AD59109}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{85D29E28-2BE0-42A5-BEB0-D9490AD59109}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
